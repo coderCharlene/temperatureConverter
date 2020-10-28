@@ -1,0 +1,41 @@
+body
+{
+    background-color: cornflowerblue;
+    font-family: Consolas;
+}
+
+h1
+{
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 50px;
+    text-shadow: 3px 3px #808080;
+}
+
+h2
+{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#kelvin
+{
+    margin-left: 35%;
+    width: 500px;
+    height: 40px;
+    font-size: 28px;
+    text-align: center;
+}
+
+#celsius1 , #celsius2 , #fahrenheit1 , #fahrenheit2 , #newton1 , #newton2
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+
+ 
